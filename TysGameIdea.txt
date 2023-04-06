@@ -1,0 +1,34 @@
+Street Fighter Game:
+*Game window
+	-basic width, height
+
+*Opening screen 
+	-Music
+	-play button
+	-controls menu
+
+*Character select screen
+    -Caracter Class
+	- 4 characters
+	-special ability for each
+	
+*Map select screen
+	- 4 different backgrounds
+
+*Main game play 
+	-Music 
+	-60 Sec timer
+	-3 sec countdown timer
+    -Player
+	-Keys(left, right, jump, block,special)
+	-soundFX
+	-Health bar
+	-death animation
+
+    -Enemy Player
+	AI controls
+	same as player
+
+*Game over
+-QUIT
+-Return to character select
